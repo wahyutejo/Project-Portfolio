@@ -1,4 +1,4 @@
-Beberapa Contoh Latihan Project Website:
+Beberapa Contoh Latihan Membuat Website:
 
 1. **progate**      membuat project website dari progate
 
