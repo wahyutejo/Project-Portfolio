@@ -1,3 +1,5 @@
-**progate**       project membuat website dari progate
+Beberapa Contoh Latihan Project Website:
 
-**web dasar**     project website kota bandung dari dicoding
+1. **progate**      membuat project website dari progate
+
+2. **web dasar**    membuat project website kota bandung dari dicoding
