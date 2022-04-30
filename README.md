@@ -1,6 +1,6 @@
 Beberapa Contoh Latihan Membuat Website:
 
-1. **progate**      membuat project website dari progate
+1. **progate**      membuat project website dari progate    https://wahyutejo.github.io/Project-Website/
 
 2. **web dasar**    membuat project website kota bandung dari dicoding
 
