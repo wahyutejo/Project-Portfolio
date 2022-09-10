@@ -1,4 +1,4 @@
-### Beberapa Contoh Latihan Membuat Website:
+### Beberapa Project Membuat Website:
 
 |No |Nama               |Keterangan                                         |link website                                               |
 |:--| :--               |    :----                                          |         :---:                                             | 
