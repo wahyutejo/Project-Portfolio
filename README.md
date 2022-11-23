@@ -23,4 +23,4 @@
 |NO  | Name                | Repo                                                  | Criteria               |
 |:--:| :--                 |    :----                                              |       :----            |
 |1.  |Notes App Backend    |https://github.com/wahyutejo/notes-app-back-end        |                        |   
-|2.  |Bookshelf Api        |https://github.com/wahyutejo/bookshelfApi              |                        |       
+|2.  |Bookshelf Api        |https://github.com/wahyutejo/bookshelfApi              |   [link]https://github.com/wahyutejo/Project-Portfolio/blob/master/BookshelfAPITestCollectionAndEnvironment.zip                     |       
