@@ -11,11 +11,11 @@
 
 ### Web React Base
 
-|NO  | Topic              | URL                                                  |
-|:--:| :--                |    :----                                             |          
-|1.  |News                |https://wahyutejo-news.netlify.app/                   |
-|2.  |Movie               |https://wahyutejo-project-tmdb.netlify.app/           |
-|3.  |Notes               |https://wahyutejo-notes.netlify.app/                  |
+|NO  | Topic              | URL                                                  | Repo                                                                     |
+|:--:| :--                |    :----                                             |   :---                                                                   |
+|1.  |News                |https://wahyutejo-news.netlify.app/                   | [link](https://github.com/wahyutejo/152235865100699-dts-final-project)   |
+|2.  |Movie               |https://wahyutejo-project-tmdb.netlify.app/           | [link](https://github.com/wahyutejo/pair-25-dts-mini-project)            |
+|3.  |Notes               |https://wahyutejo-notes.netlify.app/                  | [link](https://github.com/wahyutejo/notes-app-react)                     |
 
 
 ### Backend
