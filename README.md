@@ -22,5 +22,5 @@
 
 |NO  | Name                | Repo                                                  | Criteria               |
 |:--:| :--                 |    :----                                              |       :----            |
-|1.  |Notes App Backend    |https://github.com/wahyutejo/notes-app-back-end        |                        |   
-|2.  |Bookshelf Api        |https://github.com/wahyutejo/bookshelfApi              |   <a href="https://github.com/wahyutejo/Project-Portfolio/blob/master/BookshelfAPITestCollectionAndEnvironment.zip" target="_blank" rel="noopener noreferrer"> bookshelf criteria</a>                     |       
+|1.  |Notes App Backend    |https://github.com/wahyutejo/notes-app-back-end        |      [go](http://stackoverflow.com){:target="_blank"}                |   
+|2.  |Bookshelf Api        |https://github.com/wahyutejo/bookshelfApi              |  [bookshelf criteria](https://github.com/wahyutejo/Project-Portfolio/blob/master/BookshelfAPITestCollectionAndEnvironment.zip)                     |       
