@@ -1,12 +1,13 @@
 ### Portfolio Website:
 
-|No   |Nama               |Keterangan                                           |link website                                       |
-|:--: | :--               |    :----                                            |         :---                                      | 
-|1.   |web progate        |membuat project website dari progate                 |https://wahyutejo.github.io/web-progate/           |
-|2.   |web dasar          |membuat project website kota bandung dari dicoding   |https://wahyutejo.github.io/web-dasar-bandung/     |
-|3.   |web calculator     |aplikasi kalkulator sederhana menggunakan flexbox    |https://wahyutejo.github.io/calculator/            |
-|4.   |web ngopiae        |website warung kopi atau kafe                        |https://wahyutejo.github.io/ngopiae/               |
-|5.   |web portfolio      |web portfolio with bootstrap                         |https://wahyutejo.github.io/web-portfolio/         |
+|No   |Nama               |Keterangan                                           |link website                                       | Repo            |
+|:--: | :--               |    :----                                            |         :---                                      | :---            |
+|1.   |web progate        |membuat project website dari progate                 |https://wahyutejo.github.io/web-progate/           | [link](https://github.com/wahyutejo/web-progate)|
+|2.   |web dasar          |membuat project website kota bandung dari dicoding   |https://wahyutejo.github.io/web-dasar-bandung/     | [link](https://github.com/wahyutejo/web-dasar-bandung)|
+|3.   |web calculator     |aplikasi kalkulator sederhana menggunakan flexbox    |https://wahyutejo.github.io/calculator/            | [link](https://github.com/wahyutejo/calculator)|
+|4.   |web ngopiae        |website warung kopi atau kafe                        |https://wahyutejo.github.io/ngopiae/               | [link](https://github.com/wahyutejo/ngopiae)|
+|5.   |web portfolio      |web portfolio with bootstrap                         |https://wahyutejo.github.io/web-portfolio/         | [link](https://github.com/wahyutejo/web-portfolio)|
+|6.   |web portfolio DTS  |web portfolio DTS                                    |https://wahyutejo.github.io/web-portfolio-dts/     | [link](https://github.com/wahyutejo/web-portfolio-dts)|
 
 
 ### Web React Base
