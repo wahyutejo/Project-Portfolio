@@ -4,7 +4,7 @@
 |:--: | :--               |    :----                                            |         :---                                      | :---            |
 |1.   |web progate        |membuat project website dari progate                 |https://wahyutejo.github.io/web-progate/           | [link](https://github.com/wahyutejo/web-progate)|
 |2.   |web dasar          |membuat project website kota Bandung                 |https://wahyutejo.github.io/web-dasar-bandung/     | [link](https://github.com/wahyutejo/web-dasar-bandung)|
-|3.   |web calculator     |aplikasi kalkulator sederhana menggunakan flexbox    |https://wahyutejo.github.io/calculator/            | [link](https://github.com/wahyutejo/calculator)|
+|3.   |web calculator     |aplikasi kalkulator sederhana                        |https://wahyutejo.github.io/calculator/            | [link](https://github.com/wahyutejo/calculator)|
 |4.   |web ngopiae        |website warung kopi atau kafe                        |https://wahyutejo.github.io/ngopiae/               | [link](https://github.com/wahyutejo/ngopiae)|
 |5.   |web portfolio      |web portfolio with bootstrap                         |https://wahyutejo.github.io/web-portfolio/         | [link](https://github.com/wahyutejo/web-portfolio)|
 |6.   |web portfolio DTS  |web portfolio DTS                                    |https://wahyutejo.github.io/web-portfolio-dts/     | [link](https://github.com/wahyutejo/web-portfolio-dts)|
@@ -26,5 +26,5 @@
 
 |NO  | Name                | Repo                                                  | Criteria               |
 |:--:| :--                 |    :----                                              |       :----            |
-|1.  |Notes App Backend    |https://github.com/wahyutejo/notes-app-back-end        |      |   
-|2.  |Bookshelf Api        |https://github.com/wahyutejo/bookshelfApi              |  [bookshelf criteria](https://github.com/wahyutejo/Project-Portfolio/blob/master/BookshelfAPITestCollectionAndEnvironment.zip)                  |       
+|1.  |Notes App Backend    |https://github.com/wahyutejo/notes-app-back-end        |  [notes criteria](https://github.com/wahyutejo/Project-Portfolio/blob/master/NotesApitestCollectionAndEnvirontment.zip)      |   
+|2.  |Bookshelf Api        |https://github.com/wahyutejo/bookshelfApi              |  [bookshelf criteria](https://github.com/wahyutejo/Project-Portfolio/blob/master/BookshelfAPITestCollectionAndEnvironment.zip)   |       
