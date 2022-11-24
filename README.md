@@ -8,8 +8,9 @@
 |4.   |web ngopiae        |website warung kopi atau kafe                        |https://wahyutejo.github.io/ngopiae/               | [link](https://github.com/wahyutejo/ngopiae)|
 |5.   |web portfolio      |web portfolio with bootstrap                         |https://wahyutejo.github.io/web-portfolio/         | [link](https://github.com/wahyutejo/web-portfolio)|
 |6.   |web portfolio DTS  |web portfolio DTS                                    |https://wahyutejo.github.io/web-portfolio-dts/     | [link](https://github.com/wahyutejo/web-portfolio-dts)|
-|7.   |Todo Apps          |Aplikasi Catatan                                     |https://wahyutejo.github.io/todoapps/              | [link](https://github.com/wahyutejo/todoapps)|
-|8.   |Bookshelf App      |Rak Buku                                             |https://wahyutejo.github.io/bookshelf-apps/        | [link](https://github.com/wahyutejo/bookshelf-apps)|
+|7.   |web storage        |save data to web storage                             |https://wahyutejo.github.io/web-storage/           | [link](https://github.com/wahyutejo/web-storage)|
+|8.   |Todo Apps          |Aplikasi Catatan                                     |https://wahyutejo.github.io/todoapps/              | [link](https://github.com/wahyutejo/todoapps)|
+|9.   |Bookshelf App      |Rak Buku                                             |https://wahyutejo.github.io/bookshelf-apps/        | [link](https://github.com/wahyutejo/bookshelf-apps)|
 
 ### Web React Base
 
