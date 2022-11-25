@@ -12,7 +12,7 @@
 |8.   |Todo Apps          |Aplikasi Catatan                                     |https://wahyutejo.github.io/todoapps/              | [link](https://github.com/wahyutejo/todoapps)|
 |9.   |Bookshelf App      |Rak Buku                                             |https://wahyutejo.github.io/bookshelf-apps/        | [link](https://github.com/wahyutejo/bookshelf-apps)|
 
-### Web React
+### React
 
 |NO  | Topic              | URL                                                  | Repo                                                                     |
 |:--:| :--                |    :----                                             |   :---                                                                   |
@@ -28,3 +28,22 @@
 |:--:| :--                 |    :----                                              |       :----            |
 |1.  |Notes App Backend    |https://github.com/wahyutejo/notes-app-back-end        |  [notes criteria](https://github.com/wahyutejo/Project-Portfolio/blob/master/NotesApitestCollectionAndEnvirontment.zip)      |   
 |2.  |Bookshelf Api        |https://github.com/wahyutejo/bookshelfApi              |  [bookshelf criteria](https://github.com/wahyutejo/Project-Portfolio/blob/master/BookshelfAPITestCollectionAndEnvironment.zip)   |       
+
+
+### Data Science
+
+|NO  | Name                                  |Repo                                                                         |
+|:--:| :--                                   | :---                                                                        |
+|1.  |Data Science Telco                     |  [link](https://github.com/wahyutejo/Data-Science-Telco)                    |
+|2.  |Analisis Pendapatan Negara             |  [link](https://github.com/wahyutejo/Analisis-Pendapatan-Negara)            |
+|3.  |Analisis Saham                         |  [link](https://github.com/wahyutejo/Analisis-Saham)                        |
+|4.  |Basic Feature Enginering               |  [link](https://github.com/wahyutejo/basic_feature_enginering)              |
+|5.  |Data Covid Dunia Dan Asean             |  [link](https://github.com/wahyutejo/data_covid-19_dunia_asean)             |
+|6.  |Price Predict                          |  [link](https://github.com/wahyutejo/Price_predict)                         |
+|7.  |Eksplorasi Data Covid di Indonesia     |  [link](https://github.com/wahyutejo/eksplorasi_data_covid_di_Indonesia)    |
+|8.  |Business Decission Reserach            |  [link](https://github.com/wahyutejo/business_decision_research)            |
+|9.  |Mengolah Data Harga Rumah              |  [link](https://github.com/wahyutejo/mengolah-data-harga-rumah)             |
+
+
+
+
