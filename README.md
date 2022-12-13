@@ -11,6 +11,8 @@
 |7.   |web storage        |save data to web storage                             |https://wahyutejo.github.io/web-storage/           | [link](https://github.com/wahyutejo/web-storage)|
 |8.   |Todo Apps          |Aplikasi Catatan                                     |https://wahyutejo.github.io/todoapps/              | [link](https://github.com/wahyutejo/todoapps)|
 |9.   |Bookshelf App      |Rak Buku                                             |https://wahyutejo.github.io/bookshelf-apps/        | [link](https://github.com/wahyutejo/bookshelf-apps)|
+|10.   |Landing Page      |(open from mobile device)                            |https://wahyutejo-landing-page.netlify.app/        | [link](https://github.com/wahyutejo/landing-page)|
+
 
 ### React
 
