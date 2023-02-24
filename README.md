@@ -33,7 +33,8 @@
 |3.  |New Notes App Backend|https://github.com/wahyutejo/new-notes-app-back-end    |      |
 |4.  |Open Music Api v1    |https://github.com/wahyutejo/open-music-api-v1         |  [open music v1 criteria](https://github.com/wahyutejo/Project-Portfolio/blob/master/OpenMusic%20API%20V1%20Test.zip)       | 
 |5.  |Open Music Api v2    |https://github.com/wahyutejo/open-music-api-v2         |  [open music v2 criteria](https://github.com/wahyutejo/Project-Portfolio/blob/master/OpenMusic%20API%20V2%20Test.zip)     | 
-
+|6.  |Open Music Api v3    |https://github.com/wahyutejo/open-music-api-v3         |    [open music criteria ]   | 
+|7.  |open music queue consumer | https://github.com/wahyutejo/open-music-app-queue-consumer
 
 ### Data Science
 
